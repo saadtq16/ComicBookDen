@@ -1,0 +1,69 @@
+body{
+    background-color: #000;
+    margin: 0px 0px;
+}
+nav{
+    color: #fff;
+}
+.navbar-inverse{
+    background-color: #cf0101;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: #e8e0e0;
+}
+.navbar-inverse .navbar-brand{
+    color: #e8e0e0;
+}
+#title{
+    font-family: anton;
+    color: #cf0101;
+}
+#head{
+    color: #cf0101;
+    text-align: center;
+    font-family: anton;
+    font-size: 100px;
+    font-weight: 5em;
+}
+.desc{
+    font-family: arial;
+    font-size: 20px;
+    color: #fff;
+}
+.col-md-8 h4{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 2em;
+}
+.col-md-8 a{
+    text-decoration: none;
+    color: #cf0101;
+    font-weight: bold;
+}
+.col-md-8 a:hover{
+    color: #1ef4f1;
+}
+.col-mod-4{
+    float: left;
+}
+::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: #a6a6a6;
+    box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+}
+::-webkit-scrollbar-track{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+}
+#excl{
+    vertical-align: top;
+}
+#sign_cover{
+    width: 100%;
+    height: 90%;
+    background-image: url("http://paperlief.com/images/iron-man-comic-wallpaper-wallpaper-4.jpg");
+}
